@@ -16,6 +16,10 @@ Hello world is an Open Source project for programming beginners. It consists in 
 10. Dart
 11. COBOL
 12. JAVA
+13. typescript
+14. Kotlin
+15. Rust
+16. Fortran
 
 
 ## Table of Contents
